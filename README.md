@@ -194,15 +194,4 @@ The API includes a logging filter that logs:
 - incoming request URI
 - outgoing response status code
 
-This improves observability and helps with debugging and testing.
-
 ---
-
-## Final Notes
-- This project is implemented using JAX-RS (Jersey) and deployed on Apache Tomcat.
-- No Spring Boot is used.
-- No database technology is used.
-- In-memory Java collections are used for storage.
-- The written answers are included in this `README.md`.
-- The project is hosted in a public GitHub repository.
-- A separate video demonstration will be submitted through Blackboard.
